@@ -286,7 +286,7 @@ New rows added to **Sheet1** are picked up by the summary automatically.
 **Akanksha**
 *Aspiring Data Analyst · Excel · Power BI · SQL · Python · Statistics*
 
-[LinkedIn]([www.linkedin.com/in/akanksha-badoni-9b4ab83a9](https://www.linkedin.com/in/akanksha-badoni-9b4ab83a9/))
+[LinkedIn]([[www.linkedin.com/in/akanksha-badoni-9b4ab83a9](https://www.linkedin.com/in/akanksha-badoni-9b4ab83a9/)](https://www.linkedin.com/in/akanksha-badoni-9b4ab83a9/))
 
 [GitHub](https://github.com/akankshabadoni)
 
